@@ -1,0 +1,11 @@
+.listpage header {
+  height: 56px;
+}
+.listpage .table {
+  width: 840px;
+  margin:0 auto;
+}
+.listpage .ant-table.ant-table-large.ant-table-scroll-position-left a:hover {
+  background-color: #44a340;
+  color:#fff;
+}

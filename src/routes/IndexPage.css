@@ -1,0 +1,49 @@
+.indexPage {
+  position: relative;
+  width:100%;
+  height:100%;
+}
+.indexPage a:hover {
+  background-color: #44a340;
+  color:#fff;
+}
+.indexPage .header {
+  color: #44a340;
+  font-size: 14px;
+  padding: 20px 25px;
+}
+.indexPage .avatar {
+  position:absolute;
+  left:50%;
+  top:50%;
+  width:300px;
+  margin:-80px -150px;
+}
+.indexPage .avatar .photo {
+  height:120px;
+  width:120px;
+  margin:0 auto;
+  background-image: url(../assets/indexAvator.jpg);
+  background-size: cover;
+  border-radius: 50%;
+}
+.indexPage .avatar span {
+  display: block;
+  width:100%;
+  margin: 20px 0;
+  text-align: center;
+}
+.indexPage .avatar .row {
+  width:40%;
+  margin:0 auto;
+  text-align:center; 
+}
+.indexPage a{
+  color:#44a340;
+  font-size: 14px;
+  transition:all .25s ease-in-out;
+}
+.indexPage a:hover {
+  background-color: #44a340;
+  color:#fff;
+}

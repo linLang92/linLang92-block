@@ -1,0 +1,11 @@
+
+html, body, :global(#root) {
+  height: 100%;
+  color:#555;
+}
+
+a{
+  color:#44a340;
+  font-size: 14px;
+  transition:all .25s ease-in-out;
+}

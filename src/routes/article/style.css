@@ -1,0 +1,38 @@
+.article {
+	max-width: 650px;
+	width:100%;
+	margin:0 auto;
+	box-sizing: border-box;
+	padding:0 20px 20px;
+	margin-bottom: 20px;
+}
+.article a:hover {
+  background-color: #44a340;
+  color:#fff;
+}
+.article .title {
+	  color: #ed3f3f;
+    margin: 10px 0;
+    font-size: 23px;
+    text-align: center;
+}
+
+.article .time {
+	color: #9b9b9b;
+    margin: 5px 0 20px;
+    text-align: center;
+}
+.article .url {
+	font-size:13px;
+	color:#aaa;
+	margin:5px 0 20px;
+}
+.article p {
+	font-size:15px;
+	margin-bottom:10px;
+}
+.article img {
+	display: block;
+	max-width:100%;
+	margin:0 auto 10px;
+}
